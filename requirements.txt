@@ -1,0 +1,12 @@
+geopandas
+numpy
+pandas
+shapely
+osmnx
+momepy
+networkx
+matplotlib
+xgboost
+shap
+geomeppy
+scipy
